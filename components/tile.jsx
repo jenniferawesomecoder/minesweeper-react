@@ -1,5 +1,7 @@
 import React from 'react';
 
+#class components
+
 class Tile extends React.Component{
   constructor(props){
     super(props);

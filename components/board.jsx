@@ -1,7 +1,7 @@
 import Tile from './tile';
 import React from 'react';
 
-
+#class components
 class Board extends React.Component{
   constructor(props){
     super(props);

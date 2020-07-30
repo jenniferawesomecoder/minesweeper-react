@@ -2,6 +2,8 @@ import Board from './board';
 import React from 'react';
 import * as Minesweeper from '../minesweeper';
 
+#class components
+
 class Game extends React.Component{
   constructor(props) {
     super(props);
